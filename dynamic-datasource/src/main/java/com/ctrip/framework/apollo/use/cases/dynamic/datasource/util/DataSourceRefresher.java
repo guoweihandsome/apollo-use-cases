@@ -2,7 +2,7 @@ package com.ctrip.framework.apollo.use.cases.dynamic.datasource.util;
 
 import com.ctrip.framework.apollo.model.ConfigChangeEvent;
 import com.ctrip.framework.apollo.spring.annotation.ApolloConfigChangeListener;
-import com.ctrip.framework.apollo.use.cases.dynamic.datasource.ds.DynamicDataSource;
+
 import java.util.Set;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

@@ -1,4 +1,4 @@
-package com.ctrip.framework.apollo.use.cases.dynamic.datasource.ds;
+package com.ctrip.framework.apollo.use.cases.dynamic.datasource.util;
 
 import java.io.PrintWriter;
 import java.sql.Connection;

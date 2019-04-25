@@ -1,7 +1,5 @@
-package com.ctrip.framework.apollo.use.cases.dynamic.datasource;
+package com.ctrip.framework.apollo.use.cases.dynamic.datasource.util;
 
-import com.ctrip.framework.apollo.use.cases.dynamic.datasource.ds.DynamicDataSource;
-import com.ctrip.framework.apollo.use.cases.dynamic.datasource.util.DataSourceManager;
 import javax.sql.DataSource;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;
 import org.springframework.boot.context.properties.ConfigurationProperties;
